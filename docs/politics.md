@@ -19,43 +19,33 @@ My general goal with online politics is to:
 - Move people to take politically effective action.
 - Exemplify my political and ethical values in the way I live my life.
 
-## Philosophical Axioms and Consistency
+I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. For a more in-depth explanation of this, please see the page on [why philosophy is important](./philosophy#why-philosophy-is-important).
 
-I think that political positions should be the result of a consistent system — namely, an underlying ethical and epistemic framework. My personal system starts with the axiom of wanting to maximize my own well-being, and then from there, I build out an altruistic mindset to maximize the well-being of others around me. [This video](https://www.youtube.com/watch?v=N-eTcjGsK08) is the beginning of an attempt to explain how I try to build my political positions from my more fundamental values.
+## Affirmative Action
 
-My applied political positions always follow from my moral system. I think the world would be a better place if people reflected more on their internal, fundamental values and used those as guiding principles to establish their political values, rather than blindly following an ideologue, or using inherited positions from their parents, religion, country, or party.
+I don't have a strong position on affirmative again. It can be a powerful tool, but only when implemented properly; it is a political lightening rod which makes it very hard to reasonably discuss.
 
-A lot of political debate boils down to having some differing, fundamental position. Instead of two people arguing at a surface level about an issue, it is sometimes more useful to dive down to try and figure out what the other person actually believes at a fundamental level. A great example of this is abortion — people will often debate back and forth about the legality of abortion while ignoring that they fundamentally disagree on whether or not a fetus should carry the same (or similar) moral consideration as an infant child.
+Affirmative action tends to run into trouble in universities where [huge mismatch](https://www.theatlantic.com/national/archive/2012/10/the-painful-truth-about-affirmative-action/263122/) problems occur — minority students who are given *too much* preferential treatment in admissions will massively under-perform their peers, causing them to dropout at disproportionately high rates. Though some argue ( [1](https://fivethirtyeight.com/features/heres-what-happens-when-you-ban-affirmative-action-in-college-admissions/) | [2](https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action) ) in favor of aggressive affirmative action for higher education, they often only look at the enrollment rates as indicators of success, rather than actual college achievement.
+
+Outside of universities, one can go too far in forcing integration as well, for example: [California's "woman quota" for corporate boards](https://www.washingtonpost.com/business/2019/11/14/this-state-requires-company-boards-include-women-new-lawsuit-says-thats-unconstitutional/).
+
+Affirmative action programs that incentivize students to take part in additional education opportunities to prepare them for a college environment would be more in-line with my view of effective policy rather than simply shoving them into classrooms with more qualified peers and expecting them to perform at competitive levels.
+
+Additional reading:
+- [50 Years of Affirmative Action: What Went Right, and What It Got Wrong](https://www.nytimes.com/2019/03/30/us/affirmative-action-50-years.html) — by Anemona Hartocollis, published on March 30, 2019
+   - The author tracks down many of the black students in Columbia's class of 1973, some of the first who were enrolled as "affirmative action" became a more important social issue for universities to focus on.
 
 ## Social Justice
 
-I believe that social justice is a real thing. We have made a ton of progress so far (e.g. ending slavery, ending redlining, legalizing gay marriage) but we are not at the finish line yet. In general, the government should work to protect the rights of minority groups, including trans people.
-
-Sometimes, social justice can go too far (e.g. [Rachel Dolezal](https://en.wikipedia.org/wiki/Rachel_Dolezal) & "transracialism," [Twitch banning the "blind playthrough" tag](https://www.eurogamer.net/articles/2020-12-06-twitch-removes-blind-playthrough-tag-following-criticism-from-gamers-with-disabilities), pronouns based on animals). On the other hand, a lot of people against social justice have ridiculous and overblown concepts of what social justice even is (e.g. from watching "SJW owns" videos on YouTube).
-
-The reasonable position is somewhere in the middle. I advocate that you should try to respect other people, especially if doing so won't inconvenience you much. In general, this means if someone wants you to call them she/her, you should be polite and respect their request to do so.
+It is incredibly important to incorporate notions of equity into our view of the world when it comes to enacting policy or new laws. I think it is vital to recognize that many people have had disadvantages throughout US history and that the outcomes of those disadvantages are still noticeable today. Any policy we design should take these differences into account.
 
 Also, see the section on [systemic racism](#systemic-racism).
 
 ## Diversity
 
-In general, I believe diversity is a good thing, though there are times when it can be taken too far. It would be a mistake for groups and organizations to strive for a purely equal representation of all genders and races — the most qualified person should get the job, regardless of their gender or race.
+Diversity is a good thing, and has been shown time and time again to benefit both countries ( [1](https://www.hamiltonproject.org/charts/high_skilled_immigration_increases_innovation) | [2](https://www.independent.co.uk/news/business/analysis-and-features/immigration-migration-advisory-committee-productivity-skill-gdp-brexit-a8542841.html) ) and companies ( [1](https://www.gartner.com/smarterwithgartner/diversity-and-inclusion-build-high-performance-teams/) | [2](https://www.webershandwick.com/news/paving-the-way-for-diversity-inclusion-success/) | [3](https://www.bcg.com/en-us/publications/2018/how-diverse-leadership-teams-boost-innovation) | [4](https://www2.deloitte.com/content/dam/Deloitte/us/Documents/about-deloitte/us-inclus-millennial-influence-120215.pdf) | [5](https://yello.co/blog/diversity-in-the-workplace-statistics/) | [6](https://www.kaporcenter.org/tech-leavers/) ). Countries and companies that engage in high levels of diversity seem to outperform their less diverse counterparts, and it seems to be the case that having a more diverse representation across your population and workforce can be an advantage in and of itself.
 
-At the same time, though, there is a big difference between a group of 10 men versus a group of 9 men + 1 woman. When hiring the 10th person for this group, if a man and woman have similar credentials, it might benefit the group a lot more to hire the woman — the group would gain a different perspective, and it would be more well-rounded.
-
-A great anecdote showcasing this concept is the software engineers who developed the first successful facial recognition software. As the story goes, when the engineers were refining their algorithms, they were testing on themselves and people in their local area. It was only later, when the technology got to be used in a more widespread fashion, they realized it had [problems categorizing black faces](https://www.wired.com/story/best-algorithms-struggle-recognize-black-faces-equally/). If the team had had even one black engineer, it might have helped them catch this problem early on, resulting in a better product.
-
-Anecdotes aside, what does the data say? Research tends to show that [diversity does tend to have benefits](https://www.scientificamerican.com/article/how-diversity-makes-us-smarter/), but [it isn't completely one-sided](https://hbr.org/2016/07/why-diversity-programs-fail).
-
-Also, see the section on [affirmative action](#affirmative-action).
-
-## Affirmative Action
-
-I am neither for nor against affirmative action — it depends on how it is implemented.
-
-For example, I am against [California's "woman quota" for corporate boards](https://www.washingtonpost.com/business/2019/11/14/this-state-requires-company-boards-include-women-new-lawsuit-says-thats-unconstitutional/), because it seems like it is going too far.
-
-Also, see the section on [diversity](#diversity).
+Though it seems hard to imagine, just having a more diverse work-place can be predictive of your ability to outperform average returns in a given environment. ( [1](https://www2.deloitte.com/content/dam/Deloitte/au/Documents/human-capital/deloitte-au-hc-diversity-inclusion-soup-0513.pdf) | [2](https://www.insurance.ca.gov/diversity/41-ISDGBD/GBDExternal/upload/McKinseyDivmatters-201501.pdf) ) There are modern examples of avoidable problems that boil down to a company simply lacking a diverse team. One well-known example is [racial discrimination that occurs](https://sitn.hms.harvard.edu/flash/2020/racial-discrimination-in-face-recognition-technology/) in face recognition technology. Another example is soap dispensers [not recognizing black hands](https://gizmodo.com/why-cant-this-soap-dispenser-identify-dark-skin-1797931773) over white hands.
 
 ## Systemic Racism
 
@@ -85,11 +75,9 @@ People in America (and around the world) have problems **right now** that need t
 
 ## Global Warming
 
-I think that global warming is a real thing and is anthropogenic (caused by humans).
+Global warming is real and anthropogenic (i.e.: caused by humans).
 
-Unfortunately, I have low hopes that the world will be able to agree to reduce carbon emissions to prevent significant warming (<4°C).
-
-I don't support any particular policies relating to global warming, although I would like to see America (and the rest of the world) become carbon neutral as fast as reasonably possible.
+It seems that the best approach to dealing with climate change is with the aggressive incentivization of greener energies and the implementation of carbon pricing policies. The former polls incredibly well with Americans and the latter is almost universally agreed upon by economists to be effective in moving markets to aggressively seek out more carbon-neutral ways of operating. ( [1](https://www.rff.org/publications/reports/climateinsights2020-policies-and-politics/) )
 
 ## The Green New Deal
 
@@ -118,7 +106,7 @@ I do not support the [alt-right](https://en.wikipedia.org/wiki/Alt-right), nor a
 
 My [debate with Erik Striker & James Allsup](https://www.youtube.com/watch?v=X48MhURMh1A) is emblematic of most discourse that I've had with alt-right figures: when confronted with challenges to their ideas, they retreat to anecdotes and offer no solutions. Most concerningly, the policy positions they offer for political change generally require some extreme amount of state-sponsored violence and are highly unrealistic in achieving any positive end.
 
-### Protecting our Demographics
+### "Protecting our Demographics"
 
 Many on the far right express a great concern over protecting the demographic make-up of whatever community they reside in. They might allude to "western values," "white values," "euro-centric values" or some other type of "values" that they are trying to protect. Generally they state the reason to protect these values stems from both an earnest desire to preserve their culture as well as protecting their voting interests.
 
